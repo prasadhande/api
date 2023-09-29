@@ -1,0 +1,15 @@
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/websocket-driver-0.7.6/ext/websocket-driver
+/home/prasad/.rbenv/versions/2.7.2/bin/ruby -I /home/prasad/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20230925-1347927-1ys5lo5.rb extconf.rb
+creating Makefile
+
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/websocket-driver-0.7.6/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20230925-1347927-173yu4h

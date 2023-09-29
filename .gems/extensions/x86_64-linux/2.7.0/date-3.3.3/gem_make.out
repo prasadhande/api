@@ -1,0 +1,21 @@
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/date-3.3.3/ext/date
+/home/prasad/.rbenv/versions/2.7.2/bin/ruby -I /home/prasad/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20230925-1347927-1931xzw.rb extconf.rb
+checking for rb_category_warn()... no
+checking for timezone in time.h with  -Werror... yes
+checking for altzone in time.h with  -Werror... no
+creating Makefile
+
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/date-3.3.3/ext/date
+make "DESTDIR=" clean
+
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/date-3.3.3/ext/date
+make "DESTDIR="
+compiling date_core.c
+compiling date_parse.c
+compiling date_strftime.c
+compiling date_strptime.c
+linking shared-object date_core.so
+
+current directory: /home/prasad/Prasad/Project/api/.gems/gems/date-3.3.3/ext/date
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 date_core.so ./.gem.20230925-1347927-mt6uxy
